@@ -14,3 +14,9 @@ Execute:
 ```
 $ ./bin/hello
 ```
+
+Clean generated files:
+
+```
+$ make clean
+```
